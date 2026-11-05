@@ -1,0 +1,6 @@
+{
+  "name": "Creador de Avatares IA PS5",
+  "description": "App estilo Android para crear, personalizar y animar avatares 3D con IA con calidad de juegos PS4/PS5, hoja de personajes (turnaround) y exportación para redes sociales.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
